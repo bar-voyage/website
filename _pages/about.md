@@ -3,7 +3,7 @@ layout: page
 title: Bar Voyage
 permalink: /about
 comments: false
-# image: assets/images/screenshot.jpg
+image: assets/images/bv-images/BarVoyageAppStoreScreenshots.png
 imageshadow: true
 ---
 
