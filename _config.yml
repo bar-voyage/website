@@ -22,7 +22,7 @@ authors:
     display_name: Sreya
     avatar: 'assets/images/bv-images/sreya-avatar.png'
     email: sreyanalla@gwu.edu
-    web: https://www.sreyanalla.com
+    web: https://www.linkedin.com/in/sreyanalla
     twitter: https://github.com/sreyanalla
     description: "A 21-year old interested in the intersection of computer science and other disciplines."
 
@@ -31,26 +31,26 @@ authors:
     display_name: Christina    
     avatar: 'assets/images/bv-images/christina-avatar.png'
     email: christina_ng@gwu.edu
-    web: https://www.wowthemes.net
-    twitter: https://twitter.com/wowthemesnet
-    description: "Write a short description of the author here. You are currently previewing Memoirs demo, a Jekyll template compatible with Github pages."
+    web: https://www.linkedin.com/in/christinang317/
+    twitter: https://github.com/christinang317
+    description: "Behind Bar Voyage's frontend, Christina loves reading, long walks, trying new exercise classes, and regularly finds herself on a yoga mat. When she's not finding the most fruity cocktail at the bar, Christina hopes to close the educational inequality in disadvantaged areas and become a lifestyle influencer, documenting snippets of her life. Post graduation, she will be making her debut on Wall Street as a technology analyst at Morgan Stanley."
   
   melody:
     name: Melody Lee
     display_name: Melody    
     avatar: 'assets/images/bv-images/melody-avatar.png'
     email: melodylee@gwu.edu
-    web: https://www.wowthemes.net
-    twitter: https://github.com/
-    description: "Write a short description of the author here. You are currently previewing Memoirs demo, a Jekyll template compatible with Github pages."
+    web: https://www.linkedin.com/in/melodyxlee/
+    twitter: https://github.com/melodylee
+    description: "Behind the scenes of Bar Voyage's frontend is Melody, an avid traveler, runner, and foodie. When she's not annoying her friends with cringeworthy puns and bad jokes, she likes to hike, read, go on long walks, and discover restaurants and experiences nearby. Her ultimate dream is to taste cuisines around the world on every continent and visit every U.S. national park before settling down and opening an Asian bakery/cafe. After graduation, she will join Slack as a software engineer and Kleiner Perkins fellow in San Francisco."
   
   linnea:
     name: Linnea Dierksheide
     display_name: Linnea    
     avatar: 'assets/images/bv-images/linnea-avatar.png'
     email: ldierksheide@gwu.edu
-    web: https://www.wowthemes.net
-    twitter: https://github.com/
+    web: https://www.linkedin.com/in/linnea-dierksheide/
+    twitter: https://github.com/ldierksheide
     description: "Write a short description of the author here. You are currently previewing Memoirs demo, a Jekyll template compatible with Github pages."
 
 
